@@ -25,7 +25,6 @@ samples, guidance on mobile development, and a full API reference.
   
 # trabajo terminado
 - ![image](https://github.com/OneDavidrdz131/UIIACT4DRAWER2/assets/143547422/40c6733c-7e97-4aba-b870-db6ed3ade87e)
-- ![image](https://github.com/OneDavidrdz131/UIIACT4DRAWER2/assets/143547422/bc7a12f8-4130-40b5-ae14-146547d14721)
 - ![image](https://github.com/OneDavidrdz131/UIIACT4DRAWER2/assets/143547422/07bf8bb7-0526-44b8-809b-0469c4048c8c)
 - ![image](https://github.com/OneDavidrdz131/UIIACT4DRAWER2/assets/143547422/cf9f06bd-0b2f-4b88-9bbf-8c191db5ed24)
 - ![image](https://github.com/OneDavidrdz131/UIIACT4DRAWER2/assets/143547422/9e7b381c-a8ee-467a-94d4-1a0d6388e58b)
